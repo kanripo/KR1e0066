@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集傳
-#+DATE: 2015-09-23 09:40:03
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:15:16.389414
+#+PROPERTY: ID KR1e0066
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0066_WYG_008-1a>¶
 欽定四庫全書¶
 　春秋集傳卷八　　　　　　元　趙汸　撰¶
@@ -524,4 +526,3 @@
 　¶
 　¶
 　春秋集傳卷八¶
-

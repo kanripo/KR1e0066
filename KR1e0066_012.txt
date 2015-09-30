@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集傳
-#+DATE: 2015-09-23 09:40:03
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:15:16.480375
+#+PROPERTY: ID KR1e0066
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0066_WYG_012-1a>¶
 欽定四庫全書¶
 　春秋集傳卷十二　　　　　元　趙汸　撰¶
@@ -488,4 +490,3 @@
 　秋於晉楚之際無不盡其辭矣¶
 冬公如晉¶
 　春秋集傳卷十二¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集傳
-#+DATE: 2015-09-23 09:40:03
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:15:16.541884
+#+PROPERTY: ID KR1e0066
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1e0066_WYG_015-1a>¶
 欽定四庫全書¶
 　春秋集傳卷十五　　　　　元　趙汸　撰¶
@@ -452,4 +454,3 @@
 　¶
 　¶
 　春秋集傳卷十五¶
-

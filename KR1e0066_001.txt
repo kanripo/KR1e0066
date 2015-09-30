@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集傳
-#+DATE: 2015-09-23 09:40:03
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:15:16.246196
+#+PROPERTY: ID KR1e0066
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1e0066_WYG_001-1a>¶
 欽定四庫全書¶
 　春秋集傳卷一　　　　　　元　趙汸　撰¶
@@ -488,4 +490,3 @@
 　書薨而不地薨十二公所同也不地隱閔所獨也然¶
 　則雖諱而亂臣賊子之獄具矣¶
 　春秋集傳卷一¶
-

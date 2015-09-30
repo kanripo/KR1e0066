@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋集傳
-#+DATE: 2015-09-23 09:40:03
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:15:16.556223
+#+PROPERTY: ID KR1e0066
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
 <pb:KR1e0066_WYG_016-1a>¶
 春秋集傳後序¶
 東山趙先生著春秋集傳屬辭左氏註解共若干卷屬¶
@@ -56,4 +58,3 @@
 　¶
 　¶
 　春秋集傳後序¶
-
